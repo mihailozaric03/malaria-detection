@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDE / OS
+.idea/
+.DS_Store
+.venv/
+
+# Exclude all PDFs
+*.pdf
+
+# BUT keep the thesis PDF
+!diplomski12.pdf
+
+# PowerPoint
+*.pptx
